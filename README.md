@@ -5,6 +5,10 @@ In this repository you can find all the slides presented during the laboratory l
 Link to the Wireshark lab pdf:
 *   [HTTP](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf)
 
+OpenVPN and Wireguard guides:
+*   [Wireguard](https://www.makeuseof.com/vpn-wireguard/)
+*   [OpenVPN](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-set-up-openvpn-server-in-5-minutes/)
+
 # :gear:  Setup
 For these labs you just need Wireshak installed in your device. For Windows and Mac you can download the installer [here](https://www.wireshark.org/#download), for Linux the commands are as follows
 
