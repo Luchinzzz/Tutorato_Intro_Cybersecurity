@@ -5,7 +5,7 @@ In this repository you can find all the slides presented during the laboratory l
 Link to the Wireshark lab pdf:
 *   [HTTP](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf)
 *   [TLS](TLS/Wireshark_TLS_v8.1.pdf)
-*   [pcap files 8.1](http://www-net.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)
+*   [pcap files 8.1](http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)
 
 OpenVPN and Wireguard guides:
 *   [Wireguard](https://www.makeuseof.com/vpn-wireguard/)
