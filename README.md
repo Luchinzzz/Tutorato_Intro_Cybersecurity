@@ -1,11 +1,15 @@
-# :closed_lock_with_key: Laboratorio di Introduzione alla Sicurezza Informatica 
+# :closed_lock_with_key: Computer Security Laboratory 
 In this repository you can find all the slides presented during the laboratory lessons of the Introduzione alla Sicurezza Informatica course. The laboratory exercises were taken from "Computer Networking: a Top Down Approach (Pearson), J.F. Kurose, K.W. Ross", you can find all the labs [here](https://gaia.cs.umass.edu/kurose_ross/wireshark.php).
 
 ## :memo: Description 
 Link to the Wireshark lab pdf:
-*   [HTTP](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf)
-*   [TLS](TLS/Wireshark_TLS_v8.1.pdf)
+*   [HTTP v8.1](/HTTP/Wireshark_HTTP_v8.1.pdf)
+*   [TLS v8.1](TLS/Wireshark_TLS_v8.1.pdf)
 *   [pcap files 8.1](http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)
+
+The slides are based on the resources you can find in the [references section](#books-references). Links to the slides:
+* [HTTP](https://gaia.cs.umass.edu/kurose_ross/ppt-8e/Chapter_2_v8.2.pptx)
+* [TLS](/TLS/Security_Network_TLS.pdf)
 
 OpenVPN and Wireguard guides:
 *   [Wireguard](https://www.makeuseof.com/vpn-wireguard/)
