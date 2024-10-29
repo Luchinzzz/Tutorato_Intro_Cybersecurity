@@ -5,7 +5,7 @@ In this repository you can find all the slides presented during the laboratory l
 Link to the Wireshark lab pdf:
 *   [HTTP v8.1](/HTTP/Wireshark_HTTP_v8.1.pdf)
 *   [TLS v8.1](TLS/Wireshark_TLS_v8.1.pdf)
-*   [pcap files 8.1](http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)
+*   [pcap files 8.1](https://www-net.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)
 
 The slides are based on the resources in the [references section](#books-references). Links to the slides:
 * [HTTP](https://gaia.cs.umass.edu/kurose_ross/ppt-8e/Chapter_2_v8.2.pptx)
