@@ -8,9 +8,10 @@ Link to the Wireshark lab pdf:
 *   [pcap files 8.1](https://www-net.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)
 
 The slides are based on the resources in the [references section](#books-references). Links to the slides:
+* [DNS](/DNS/)
 * [HTTP](https://gaia.cs.umass.edu/kurose_ross/ppt-8e/Chapter_2_v8.2.pptx)
-* [TLS](/TLS/Security_Network_TLS.pdf)
 * [NAC and Wireless Network Security](/NAC-WirelessSec/NAC_Wireless_sec.pdf)
+* [TLS](/TLS/Security_Network_TLS.pdf)
 
 OpenVPN and Wireguard guides:
 *   [Wireguard](https://www.makeuseof.com/vpn-wireguard/)
